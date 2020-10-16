@@ -2,7 +2,7 @@ Package: prettifyAddins
 Type: Package
 Title: 'RStudio' Addins to Prettify 'HTML', 'CSS', 'JavaScript', and
         More
-Version: 0.1.0
+Version: 1.0.0
 Authors@R: c(
     person(
       "Stéphane", "Laurent", 
@@ -29,16 +29,17 @@ Description: Provides 'RStudio' addins to prettify 'HTML', 'CSS', 'SCSS', 'JavaS
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Imports: shiny, shinythemes, shinyAce, miniUI, rstudioapi, tools
+Imports: shiny, rstudioapi, tools, xml2
+Suggests: V8, shinythemes, shinyAce, miniUI
 URL: https://github.com/stla/prettifyAddins
 BugReports: https://github.com/stla/prettifyAddins/issues
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-09-26 07:32:54 UTC; stla
+Packaged: 2020-10-16 06:33:07 UTC; stla
 Author: Stéphane Laurent [aut, cre],
   James Long and contributors [ctb, cph] ('Prettier' library),
   Zeb Zhao [ctb, cph] ('indent.js' library),
   Marijn Haverbeke [ctb, cph] ('CodeMirror' library)
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
 Repository: CRAN
-Date/Publication: 2020-09-29 09:20:03 UTC
+Date/Publication: 2020-10-16 06:50:05 UTC
