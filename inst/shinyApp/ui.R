@@ -40,6 +40,7 @@ shinyUI(miniPage(
         ),
         tags$script(src = "codemirror/mode/meta.js"),
         tags$script(src = "codemirror/mode/clike/clike.js"),
+        tags$script(src = "codemirror/mode/fortran/fortran.js"),
         tags$script(src = "codemirror/mode/julia/julia.js"),
         tags$script(src = "codemirror/mode/python/python.js"),
         tags$script(src = "codemirror/mode/sas/sas.js"),
@@ -55,6 +56,7 @@ shinyUI(miniPage(
         tags$script(src = "prettier/parser-html.js"),
         tags$script(src = "prettier/parser-markdown.js"),
         tags$script(src = "prettier/parser-postcss.js"),
+        tags$script(src = "prettier/parser-yaml.js"),
         tags$script(src = "indent/indent.min.js"),
         tags$script(src = "prettify.js")
       )
