@@ -2,7 +2,7 @@ Package: prettifyAddins
 Type: Package
 Title: 'RStudio' Addins to Prettify 'JavaScript', 'C++', 'Python', and
         More
-Version: 2.0.0
+Version: 2.0.1
 Authors@R: c(
     person(
       "Stéphane", "Laurent", 
@@ -36,11 +36,11 @@ URL: https://github.com/stla/prettifyAddins
 BugReports: https://github.com/stla/prettifyAddins/issues
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-11-02 23:04:00 UTC; stla
+Packaged: 2020-11-06 12:59:13 UTC; stla
 Author: Stéphane Laurent [aut, cre],
   James Long and contributors [ctb, cph] ('Prettier' library),
   Zeb Zhao [ctb, cph] ('indent.js' library),
   Marijn Haverbeke [ctb, cph] ('CodeMirror' library)
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
 Repository: CRAN
-Date/Publication: 2020-11-05 10:50:03 UTC
+Date/Publication: 2020-11-07 00:20:02 UTC
