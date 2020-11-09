@@ -1,7 +1,7 @@
-ff3c6e95c3e6ea80710f8fe2d4355ea2 *DESCRIPTION
+d0fb59b9a5eb51099375df35a25f91b9 *DESCRIPTION
 7d2ccc2879309c357d720afe9b38323a *LICENSE.note
 917df0c76c023a54100ee4df08583349 *NAMESPACE
-77ba23f619fccceb50432b4dc9af0235 *NEWS.md
+c9afa29bac4af15f073a64edf572f654 *NEWS.md
 a2f3c0fd8d6bd85dba492b1b07125396 *R/addins.R
 320b1ef6a8bd2a2fb7da339818923dc5 *R/internal.R
 d37f0c36000f59866b71b453368cca93 *R/prettifyAddins-imports.R
@@ -60,5 +60,5 @@ dec47eb25f7a43b86951d77050e652e0 *man/prettifyXML.Rd
 b6fa32671c283eb59f436054ba3ebc4d *tests/testthat.R
 39186492599efa9b9e86acfbc3178926 *tests/testthat/test-CLANG.R
 e7682ba3325c1c449470dbc7a9d20b2a *tests/testthat/test-PhantomJS.R
-b7b3a1bc112ee9731ca58ef19d02f815 *tests/testthat/test-V8.R
+7c06f9046e14d9ac4058aa6156bf1806 *tests/testthat/test-V8.R
 df8845709330613244b0d6ac9a4ddd33 *tests/testthat/test-XML.R
