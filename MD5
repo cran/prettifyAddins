@@ -1,7 +1,7 @@
-d0fb59b9a5eb51099375df35a25f91b9 *DESCRIPTION
+58a9037940c4bd4ea5de9ad9b5662b03 *DESCRIPTION
 7d2ccc2879309c357d720afe9b38323a *LICENSE.note
 917df0c76c023a54100ee4df08583349 *NAMESPACE
-c9afa29bac4af15f073a64edf572f654 *NEWS.md
+6c8c266daeb31853894f10d9e6ee469e *NEWS.md
 a2f3c0fd8d6bd85dba492b1b07125396 *R/addins.R
 320b1ef6a8bd2a2fb7da339818923dc5 *R/internal.R
 d37f0c36000f59866b71b453368cca93 *R/prettifyAddins-imports.R
@@ -14,7 +14,7 @@ a8357e98345e72abd1b7a48ac4860ed9 *R/prettifyPYTHON.R
 cf955aeb83257c11323ab594fe77abd5 *R/prettify_FCA.R
 1e22fe347dbefe6a59dd40fb5b4de63b *R/prettify_PhantomJS.R
 c915c7638ec8886689ee39e5fdd7f367 *R/prettify_Shiny.R
-4bfa736f00937759f02a1f0176f28029 *R/prettify_V8.R
+fb8615673213d64d293134b47080fef2 *R/prettify_V8.R
 0999feb9effeb4effc505ed60f5dbcff *R/rstudio.R
 1feb0d00c390ddf6e282267d11783e6a *README.md
 07f9d0281cb7072d4070e506ddfe7bd8 *inst/PhantomJS/script.js
@@ -53,10 +53,10 @@ e8b6cf0b94444d90a2f8f1d62bc41fe1 *man/prettifyLaTeX.Rd
 dec47eb25f7a43b86951d77050e652e0 *man/prettifyXML.Rd
 70bc952e14682dcaf7d6d3e945b7688c *man/prettify_FCA.Rd
 92d26632bb8f8e671a326ec427ada54d *man/prettify_Shiny.Rd
-3abdcf188df6345a6887c244ddf5e6b6 *man/prettify_V8.Rd
+d48c1c2c8ac1ab8f0bc57d6b51ea7b90 *man/prettify_V8.Rd
 25d0ad6851234b7c21d38c668dfc6fb8 *man/reindent_PhantomJS.Rd
 0e1fc5537dffceaedbc40cc20412bd84 *man/reindent_Shiny.Rd
-0f4aaafe42ab06e8ea5b244cce400305 *man/reindent_V8.Rd
+7af699eb508c0aa9bba95b60f7c0f629 *man/reindent_V8.Rd
 b6fa32671c283eb59f436054ba3ebc4d *tests/testthat.R
 39186492599efa9b9e86acfbc3178926 *tests/testthat/test-CLANG.R
 e7682ba3325c1c449470dbc7a9d20b2a *tests/testthat/test-PhantomJS.R
