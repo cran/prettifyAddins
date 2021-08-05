@@ -1,3 +1,14 @@
+# prettifyAddins 2.1.1
+
+Defined JavaScript method `String.prototype.trimEnd` for old versions of V8 
+which do not support it.
+
+
+# prettifyAddins 2.1.0
+
+Upgraded the 'Prettier' library.
+
+
 # prettifyAddins 2.0.3
 
 Fixed an issue with the CRAN checks.
