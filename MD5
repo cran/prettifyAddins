@@ -1,7 +1,7 @@
-d0741b8c64a7619fce9370935d862cd6 *DESCRIPTION
+6b8f4f3b936ca67692b2c45770a36c6a *DESCRIPTION
 7d2ccc2879309c357d720afe9b38323a *LICENSE.note
 917df0c76c023a54100ee4df08583349 *NAMESPACE
-f60439bea1e032e0c4341ec5b5a0303f *NEWS.md
+e72189ca1c1f5083510cba1676609685 *NEWS.md
 a2f3c0fd8d6bd85dba492b1b07125396 *R/addins.R
 320b1ef6a8bd2a2fb7da339818923dc5 *R/internal.R
 d37f0c36000f59866b71b453368cca93 *R/prettifyAddins-imports.R
@@ -14,10 +14,11 @@ a8357e98345e72abd1b7a48ac4860ed9 *R/prettifyPYTHON.R
 cf955aeb83257c11323ab594fe77abd5 *R/prettify_FCA.R
 1e22fe347dbefe6a59dd40fb5b4de63b *R/prettify_PhantomJS.R
 c915c7638ec8886689ee39e5fdd7f367 *R/prettify_Shiny.R
-340bbf326605c24157ac85f8f43b035d *R/prettify_V8.R
+7a64ced5a490d5d4f5e133a451a34736 *R/prettify_V8.R
 0999feb9effeb4effc505ed60f5dbcff *R/rstudio.R
 1feb0d00c390ddf6e282267d11783e6a *README.md
 07f9d0281cb7072d4070e506ddfe7bd8 *inst/PhantomJS/script.js
+baedede9467c5317dd1d2d0277a4d6f8 *inst/V8adds/StringTrim.js
 d2539d562ca81a7838c4d14017ba16d6 *inst/V8adds/trimEnd.js
 4883be191320e35e8e2dd6e53b99ec4c *inst/clang-format.txt
 5c85935f4876af8105d5ddab8ef3b076 *inst/rstudio/addins.dcf
