@@ -3,6 +3,7 @@
 export(getPrettifiableLanguages)
 export(install_phantomjs)
 export(prettifyCLANG)
+export(prettifyHTML)
 export(prettifyJulia)
 export(prettifyLaTeX)
 export(prettifyPython)
