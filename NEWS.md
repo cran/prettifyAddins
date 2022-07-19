@@ -1,3 +1,10 @@
+# prettifyAddins 2.5.0
+
+- Refreshed the Julia prettifier.
+
+- New addin 'Word wrap', to wrap a text file at 80 characters. 
+
+
 # prettifyAddins 2.4.0
 
 New function `prettifyHTML`, able to prettify voluminous HTML files including 
